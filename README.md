@@ -4,7 +4,7 @@ A simple bash prompt for ruby and RVM users. Features colors and shows current f
 
 ![sexy-bash-prompt screenshot][screenshot]
 
-[screenshot]: simple_bash_prompt.png
+[screenshot]: screenshot.png
 
 ## Install
 Just copy and paste this line in your terminal:
