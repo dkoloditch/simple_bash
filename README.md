@@ -2,6 +2,10 @@
 
 A simple bash prompt with colors, base folder, ruby, gemset, and git branch.
 
+![sexy-bash-prompt screenshot][screenshot]
+
+[screenshot]: simple_bash_prompt.png
+
 ## Installation
 One line install:
 
