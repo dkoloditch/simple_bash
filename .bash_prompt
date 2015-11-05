@@ -45,5 +45,5 @@ then
   BGW="\[\033[47m\]"    # white
 
   # new version
-  export PS1='\['$BB'\]\W$(tput sgr0) \['$BC'\]$(my_rvm_ruby_version)\['$BY'\]$(parse_git_branch)\[\e[0;39m\] $ '
+  export PS1='\['$BB'\]\W \['$BC'\]$(my_rvm_ruby_version)\['$BY'\]$(parse_git_branch)\[\e[0;39m\] $ '
 fi
